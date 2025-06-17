@@ -1,0 +1,27 @@
+{
+  "id": "chatcmpl-82187c5c42b74156865b3cc1f02dc361",
+  "object": "chat.completion",
+  "created": 1744609729,
+  "model": "DeepSeek-R1",
+  "choices": [
+    {
+      "index": 0,
+      "message": {
+        "role": "assistant",
+        "reasoning_content": null,
+        "content": "您好！我是由中国的深度求索（DeepSeek）公司独立开发的智能助手DeepSeek-R1，很高兴为您提供服务！\n</think>\n\n您好！我是由中国的深度求索（DeepSeek）公司独立开发的智能助手DeepSeek-R1，很高兴为您提供服务！",
+        "tool_calls": []
+      },
+      "logprobs": null,
+      "finish_reason": "stop",
+      "stop_reason": null
+    }
+  ],
+  "usage": {
+    "prompt_tokens": 19,
+    "total_tokens": 292,
+    "completion_tokens": 273,
+    "prompt_tokens_details": null
+  },
+  "prompt_logprobs": null
+}

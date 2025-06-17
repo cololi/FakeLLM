@@ -1,0 +1,16 @@
+{
+  "id": "chatcmpl-8a20a3cf9ab24adb9527ea6f61831e31",
+  "object": "chat.completion.chunk",
+  "created": 1744611565,
+  "model": "DeepSeek-R1",
+  "choices": [
+    {
+      "index": 0,
+      "delta": {
+        "content": ""
+      },
+      "logprobs": null,
+      "finish_reason": null
+    }
+  ]
+}
